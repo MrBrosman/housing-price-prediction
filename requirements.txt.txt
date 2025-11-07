@@ -1,0 +1,21 @@
+# ============================================================
+# Requirements for: Housing Price Prediction — Ridge Regression
+# ============================================================
+
+# --- Core scientific libraries ---
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+
+# --- Visualization ---
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# --- Machine Learning & Modeling ---
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# --- Jupyter & Notebook environment (optional for reproducibility) ---
+ipykernel==6.29.5
+notebook==7.2.1
+
