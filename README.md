@@ -1,6 +1,6 @@
 # 🏠 Housing Price Prediction — Ridge Regression Model (King County Dataset)
 
-### Author  
+### Author : Bosco Rosillo 
 Developed as part of an academic Machine Learning project focused on **regression modeling**, **feature engineering**, and **model interpretability** using Python and Scikit-Learn.
 
 ---
